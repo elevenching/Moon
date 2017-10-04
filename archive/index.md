@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-about
 title: "Archive"
 ---
 
