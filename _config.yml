@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              陈俊的博客
+bio:                '让我知道我做了什么'
+description:        "以铜为鉴，可以正衣冠；以人为鉴，可以明得失；以史为鉴，可以知兴替"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
