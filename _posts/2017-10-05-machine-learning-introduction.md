@@ -2,7 +2,7 @@
 layout: post
 title:  "Machine Learning Introduction"
 date:   2017-10-05
-excerpt: "Machine Learning Introduction."
+excerpt: "Machine learning note by Udacity course"
 tag:
 - machine learning 
 - note
