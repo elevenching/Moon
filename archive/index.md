@@ -1,5 +1,5 @@
 ---
-layout: archive-about
+layout: first-page
 title: "Archive"
 ---
 
