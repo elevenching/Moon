@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Machine Learning Introduction"
+title:  "00 Machine Learning Introduction"
 date:   2017-10-05
 excerpt: "Machine learning note by Udacity course"
 tag:
@@ -10,8 +10,6 @@ comments: true
 ---
 
 ### What's the Machine Learning?
-
-[Introduction]({{ site.baseurl }}{% post_url 2017-10-05-00-machine-learning-introduction %})
 
 **Humans** learn from past experiences, Whereas **computers** need to be told what to do, they need to be programmed.
 
