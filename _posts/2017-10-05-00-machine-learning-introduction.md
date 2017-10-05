@@ -11,6 +11,8 @@ comments: true
 
 ### What's the Machine Learning?
 
+[Introduction]({{ site.baseurl }}{% post_url 2017-10-05-00-machine-learning-introduction %})
+
 **Humans** learn from past experiences, Whereas **computers** need to be told what to do, they need to be programmed.
 
 Teaching computers to learn to perform tasks from past experiences--previous data.
