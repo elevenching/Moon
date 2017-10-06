@@ -132,3 +132,19 @@ it's very well used in support vector machines.
 
 ![hierarchical clustering](http://oxch69np1.bkt.clouddn.com/00_hierarchical_clustering.png)
 
+块级公式：
+$$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+
+\\[ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} =
+1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\ldots} } \\]
+
+行内公式： $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
+$$ x = \pi^2 $$
+
+$$
+\begin {split}
+y &= (a + b)^2 \\
+  &= a^2 + b^2 + 2ab\\
+  &= 0
+\end {split}
+$$
