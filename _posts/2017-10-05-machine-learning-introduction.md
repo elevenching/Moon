@@ -138,7 +138,6 @@ $$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 \\[ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} =
 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\ldots} } \\]
 
-行内公式： $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
 $$ x = \pi^2 $$
 
 $$
@@ -148,3 +147,5 @@ y &= (a + b)^2 \\
   &= 0
 \end {split}
 $$
+
+行内公式： $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
