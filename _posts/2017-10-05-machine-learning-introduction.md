@@ -9,6 +9,8 @@ tag:
 comments: true
 ---
 
+## Machine Learning Introduction
+
 ### What's the Machine Learning?
 
 **Humans** learn from past experiences, Whereas **computers** need to be told what to do, they need to be programmed.
@@ -133,19 +135,9 @@ it's very well used in support vector machines.
 ![hierarchical clustering](http://oxch69np1.bkt.clouddn.com/00_hierarchical_clustering.png)
 
 块级公式：
-$$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
-\\[ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} =
-1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\ldots} } \\]
+![](http://oxch69np1.bkt.clouddn.com/15072830398840.jpg)
 
-$$ x = \pi^2 $$
 
-$$
-\begin {split}
-y &= (a + b)^2 \\
-  &= a^2 + b^2 + 2ab\\
-  &= 0
-\end {split}
-$$
+行内公式： ![](http://oxch69np1.bkt.clouddn.com/15072829095734.jpg)
 
-行内公式： $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
